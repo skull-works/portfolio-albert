@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "express-favicon": "^2.0.1",
-    "firebase": "^7.17.2",
+    "firebase": "^10.9.0",
     "netlify-cli": "^2.59.2",
     "path": "^0.12.7",
     "react": "^16.13.1",
